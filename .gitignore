@@ -1,0 +1,14 @@
+/venv
+/__pycache__
+/vpn_users.db
+/config.py
+/database.db
+/bot_old.py
+/bot_old_2.py
+/database.db
+/backup_pg.sh
+/config copy.py
+/docker-compose.yml
+__pycache__
+/handlers/texts.py
+
